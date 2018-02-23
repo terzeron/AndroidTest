@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">06.EventTest</string>
+    <string name="press_me">Press Me</string>
+    <string name="press_me_for_a_while">Press me for a while</string>
+</resources>
