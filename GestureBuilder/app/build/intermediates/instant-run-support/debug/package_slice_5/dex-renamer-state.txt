@@ -1,0 +1,4 @@
+#Sun Feb 25 18:30:20 KST 2018
+base.0=C\:\\Users\\terzeron\\Documents\\workspace\\AndroidTest\\development-master-apps-GestureBuilder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\terzeron\\Documents\\workspace\\AndroidTest\\development-master-apps-GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\terzeron\\Documents\\workspace\\AndroidTest\\development-master-apps-GestureBuilder\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "737",
+                        "endColumns": "49",
+                        "endOffsets": "782"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\terzeron\\Documents\\workspace\\AndroidTest\\development-master-apps-GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "23,30,34,36,32,49,43,55,59,61,53,67,51,57,65,63,25,41,47,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "787,1065,1296,1411,1171,2067,1719,2439,2653,2774,2322,3217,2196,2548,3010,2875,915,1572,1972,1861",
+                        "endColumns": "61,50,50,44,48,48,68,54,50,67,54,107,64,50,62,64,65,52,44,60",
+                        "endOffsets": "844,1111,1342,1451,1215,2111,1783,2489,2699,2837,2372,3320,2256,2594,3068,2935,976,1620,2012,1917"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,277,328,379,424,473,522,591,646,697,765,820,928,993,1044,1107,1172,1238,1291,1336",
+                        "endColumns": "61,50,50,44,48,48,68,54,50,67,54,107,64,50,62,64,65,52,44,60",
+                        "endOffsets": "272,323,374,419,468,517,586,641,692,760,815,923,988,1039,1102,1167,1233,1286,1331,1392"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\terzeron\\Documents\\workspace\\AndroidTest\\development-master-apps-GestureBuilder\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "691,746",
+                        "endColumns": "54,54",
+                        "endOffsets": "741,796"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,160",
+                        "endColumns": "54,54",
+                        "endOffsets": "155,210"
+                    }
+                }
+            ]
+        }
+    ]
+}
