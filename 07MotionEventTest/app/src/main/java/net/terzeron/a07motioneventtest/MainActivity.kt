@@ -38,7 +38,6 @@ class MainActivity : AppCompatActivity() {
             }
 
             val touchStatus = "Action: $actionString Index: $actionIndex ID: $id X: $x, Y: $y"
-
             if (id == 0) {
                 textView1.text = touchStatus
             } else {
